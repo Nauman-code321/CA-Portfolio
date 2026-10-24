@@ -1,0 +1,120 @@
+{
+  "portfolio": {
+    "personal_details": {
+      "full_name": "Nauman Khan",
+      "target_role": "Aspiring Software Engineer",
+      "degree": "Bachelor of Technology (B.Tech)",
+      "branch": "Computer Science and Engineering",
+      "current_year": "3rd Year",
+      "current_semester": 5,
+      "institution": "Symbiosis Institute of Technology (SIT), Nagpur",
+      "duration": "2022 - 2026",
+      "location": {
+        "city": "Nagpur",
+        "state": "Maharashtra",
+        "country": "India"
+      },
+      "bio": "Aspiring software engineer interested in Python programming, artificial intelligence, and building practical solutions to real-world problems. Enjoy learning new technologies, exploring innovative ideas, and developing technical skills through hands-on projects to build impactful solutions."
+    },
+    "contact_information": {
+      "email": "nauman.khan.batch2024@sitnagpur.siu.edu.in",
+      "github_username": "Nauman-code321",
+      "github_url": "https://github.com/Nauman-code321",
+      "linkedin_url": "https://www.linkedin.com/in/nauman-khan-97a97a320"
+    },
+    "technical_skills": {
+      "programming_languages": [
+        "Python",
+        "C"
+      ],
+      "tools_and_platforms": [
+        "Linux",
+        "VS Code",
+        "Git",
+        "GitHub"
+      ],
+      "emerging_domains": [
+        "Artificial Intelligence",
+        "Generative AI",
+        "Rapid Prototyping",
+        "Startup Ideation"
+      ]
+    },
+    "work_experience": [
+      {
+        "role": "Lead Editor & Script Writer",
+        "company": "Myriad Production",
+        "status": "Active Role",
+        "domain": "AI Generated Cinema / Media-Tech",
+        "responsibilities": [
+          "Direct narrative structures and prompt engineering workflows for AI-generated film development.",
+          "Coordinate end-to-end post-production, script formatting, and video timeline continuity."
+        ],
+        "tags": [
+          "AI Film Generation",
+          "Script Writing",
+          "Video Post-Production"
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "name": "Smart Disaster Alert System",
+        "category": "Hackathon Project",
+        "technologies": [
+          "Python",
+          "VS Code",
+          "Alert Notifications API"
+        ],
+        "description": "Critical response and notification application engineered to detect perilous weather conditions and climate emergencies, instantly ringing the user's phone with audible alerts and warning notifications.",
+        "repository_url": "https://github.com/Nauman-code321"
+      },
+      {
+        "name": "AgriClimate & Soil Advisor",
+        "category": "Hackathon Project",
+        "technologies": [
+          "Python",
+          "VS Code",
+          "Data Analysis"
+        ],
+        "description": "Decision-support platform designed to assist farmers by evaluating localized soil nutrients, rainfall forecasts, and ongoing climate changes to recommend optimal crops and maximize agricultural yields.",
+        "repository_url": "https://github.com/Nauman-code321"
+      }
+    ],
+    "campus_activities_and_contributions": [
+      {
+        "organization": "Entrepreneurship Club (E-Club), SIT Nagpur",
+        "role": "Active Member",
+        "focus": "Venture ideation, business models, and collaborative technical prototyping."
+      },
+      {
+        "event_type": "Hackathons",
+        "participation_count": 2,
+        "focus": "Rapid prototyping of climate and disaster management software solutions."
+      }
+    ],
+    "certifications": [
+      {
+        "title": "Industry Internship Certificate",
+        "category": "Professional Experience",
+        "description": "Verification of completed software workflows and industry internship responsibilities."
+      },
+      {
+        "title": "Hackathon Certificate",
+        "category": "Technical Competition",
+        "description": "Awarded for prototype development and competitive engineering under time-bound hackathon conditions."
+      }
+    ],
+    "ca3_project_metadata": {
+      "project_title": "CA3 Mini Project - Self Portfolio Website",
+      "total_marks": 5,
+      "breakdown": {
+        "webpage_portfolio": 2.5,
+        "viva": 2.0,
+        "github_link": 0.5
+      },
+      "deployment_platform": "GitHub Pages",
+      "live_tracking_service": "Firebase Firestore"
+    }
+  }
+}
